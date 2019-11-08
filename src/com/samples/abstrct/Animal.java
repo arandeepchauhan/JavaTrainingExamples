@@ -6,7 +6,7 @@ public abstract class Animal {
 	}
 	public void walk()
 	{
-		System.out.println("I can Walk");
+		System.out.println("I can Walk the dog");
 	}
 
 }
